@@ -1,0 +1,21 @@
+server side events:-
+
+connection
+disconnect message
+reconnect
+ping
+join
+leave
+
+client side events:-
+
+connectionconnect-error
+connect-timeout
+reconnect
+reconnect failed
+connect_failed
+
+
+scenarios :-
+1. custom event create on server side and catch in client side
+2. custom event create on client side and catch in server side
